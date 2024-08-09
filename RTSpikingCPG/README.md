@@ -12,4 +12,4 @@ The Arduino code is Teensy-specific and actuates two BPAs, then returns the tran
 
 - Readline.py, contained in this folder. Readline.py is a workaround for the sluggish behavior of the pySerial serial.readline() command.
 
-- Py_Ard_Pipeline_Mult_Muscles.ino, a Teensy-specific Arduino code that acts as the other half of the data pipeline. The Teensy implements pulse-based control of two outputs. 
+- Py_Ard_Pipeline_Mult_Muscles.ino, contained in this folder. Py_Ard_Pipeline_Mult_Muscles.ino is a Teensy-specific Arduino code that acts as the other half of the data pipeline. The Teensy implements pulse-based control of two outputs. 
